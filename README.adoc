@@ -1,0 +1,5 @@
+# microservice-spring-cloud
+
+### Projeto criado com base no tutorial do site abaixo:
+
+http://www.matera.com/blog/post/desenvolvendo-microsservicos-spring-cloud-netflix
